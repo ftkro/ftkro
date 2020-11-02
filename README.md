@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This profile is under construction.
+Maybe working on some day when my depression gets better. Too tired for now.
+
 <!--
 **ftkro/ftkro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
