@@ -1,0 +1,23 @@
+--- # 公開用ノート(一般)
+- 牛角シンシナティのハッピーアワーは土日の11-17時
+
+--- # 公開用ノート(TODO)
+偽YAMLなので気が向いたら修正する
+個人事業主のウェブサイトを作る
+  .usと.jpで作るか(usは英語、jpは日本語)
+  事業計画書も一応作っておく。あまり活動実態ないけど一部、日本で売上あるし
+とりあえず某難関大の教授にコネを活用して実態調査をし、ある程度の浸透活動。浸透完了後転入学の応募?
+航空券を次の条件で買う
+  {
+    from: Airport.CVG,
+    to: Airport.TYO,
+    preference: {
+      carrier: [MustBe.StarAlliance.AC],
+      duration: [Should.LessThan.Twenty.Hrs],
+      class: [Should.Cabin.Y,Cabin.C,MustNot.Cabin.F],
+      booking: [PayWith.CreditCard.And.Voucher,Booking.PriceSensitive],
+      date: [ANY],
+      tier: [NH.PLT,JL.SPH,DL.GLD],
+      price: [MustBe.LessThan.Thousand.Dollars]
+    }
+  }
