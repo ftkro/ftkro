@@ -73,10 +73,12 @@ The below contents are a bonus from me. Not worth seeing, but it might be useful
 #### Flight Records
 Here's the record of my flights:
 ##### Flight History
+
 ![Flights](https://banners-my.flightradar24.com/ftkro.png)
 
 ##### Future Flights
 If the left area below the image is blank, I currently have no planned flight soon.
+
 ![FutureFlights](https://banners-my.flightradar24.com/ftkro-future.png)
 
 ### Some security disclosure:
