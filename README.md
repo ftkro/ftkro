@@ -81,5 +81,9 @@ If the left area below the image is blank, I currently have no planned flight so
 
 ![FutureFlights](https://banners-my.flightradar24.com/ftkro-future.png)
 
+#### A member of...
+<img src="https://raw.githubusercontent.com/ftkro/ftkro/main/assets/imgs/Oneworld_Sapphire_Status.png" width="150" height="225" alt="oneworld Sapphire">
+<img src="https://raw.githubusercontent.com/ftkro/ftkro/main/assets/imgs/star-alliance-gold.png" alt="Star Alliance Gold" width="150" height="200"><img src="https://raw.githubusercontent.com/ftkro/ftkro/main/assets/imgs/skyteam_elite_plus.png" alt="SkyTeam Elite Plus" width="150" height="152">
+
 ### Some security disclosure:
 I'm mainly using the secured device (e.g., YubiKey) to signing my commit, log into the service, and some encryption thing. My computer is also configured to connect smart card devices for all time I'm using that device. Furthermore, my server uses sophisticated detection technology to obfuscate my server services and secure with multi-layers/steps.
