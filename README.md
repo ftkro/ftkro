@@ -88,5 +88,9 @@ If the left area below the image is blank, I currently have no planned flight so
   <img src="https://raw.githubusercontent.com/ftkro/ftkro/main/assets/imgs/skyteam_elite_plus.png" alt="SkyTeam Elite Plus" width="75" height="76" valign="middle">
 </p>
 
+#### Alma Mater
+(In progress) Bachelor Science of Information Technology with the IT Accelerated Program and the University Honors Program
+![University of Cincinnati](https://github.com/ftkro/ftkro/raw/main/assets/imgs/University_of_Cincinnati_logo.svg) 
+
 ### Some security disclosure:
 I'm mainly using the secured device (e.g., YubiKey) to signing my commit, log into the service, and some encryption thing. My computer is also configured to connect smart card devices for all time I'm using that device. Furthermore, my server uses sophisticated detection technology to obfuscate my server services and secure with multi-layers/steps.
