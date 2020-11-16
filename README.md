@@ -70,6 +70,9 @@ Well, you can see how much do I commit to it by referring below:
 
 ### Fun (random) thing
 The below contents are a bonus from me. Not worth seeing, but it might be useful for some people.
+
+- I was in the gifted education program because of my IT skill is exceptional also maybe because IQ is relatively high than other people?
+
 #### Flight Records
 Here's the record of my flights:
 ##### Flight History
