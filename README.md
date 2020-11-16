@@ -5,6 +5,9 @@ And now, I'm living in Cincinnati, Ohio, since August 19th, 2018.
 
 My name is hard to pronounce for many people, but it is like this, so if you have a chance, let's try!: TA-koo-roh FOO-koo-duh
 
+<p float="right" align="right">
+  <img src="https://github.githubassets.com/images/modules/site/home/astro-mona.jpg" valign="middle" width="160" height="162">
+</p>
 
 ### What is your job history?
 tl;dr: In Japan, I'm working as a sole proprietor also employed as a full-stack full-time engineer. In the U.S., I'm just a student. Yes, I'm following the local law, of course.
