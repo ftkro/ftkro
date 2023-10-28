@@ -36,6 +36,7 @@ or certificate of residence (only if you are a resident of Japan. a.k.a. 住民�
 or I've visited the premise that you've claimed
 And that matched with your address that stated in the ID.
 - Being trustworthy. This definition will include not being hostile but friendly to me. (Optional, but strongly recommended)
+- Using a secure environment for GPG signing is necessary for this level.
 - Having a verifiable digital identity at some online place may help to evaluate the trust level. (Optional)
 
 ## 5. Ultimate trust
